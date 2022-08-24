@@ -32,6 +32,7 @@ export default function Home() {
         <a
           href="https://www.linkedin.com/in/yancordeiro/"
           target="_blank"
+          rel="noreferrer"
           className="px-2.5 sm:px-5 hover:text-primary duration-500"
         >
           linkedin
@@ -39,6 +40,7 @@ export default function Home() {
         <a
           href="https://github.com/yancordeiro"
           target="_blank"
+          rel="noreferrer"
           className="px-2.5 sm:px-5 hover:text-primary duration-500"
         >
           github
@@ -46,6 +48,7 @@ export default function Home() {
         <a
           href="https://www.instagram.com/cabeler4/"
           target="_blank"
+          rel="noreferrer"
           className="px-2.5 sm:px-5 hover:text-primary duration-500"
         >
           instagram
@@ -53,6 +56,7 @@ export default function Home() {
         <a
           href="https://discord.com/users/308423025013948417"
           target="_blank"
+          rel="noreferrer"
           className="px-2.5 sm:px-5 hover:text-primary duration-500"
         >
           discord
