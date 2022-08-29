@@ -15,8 +15,9 @@
     "remixicon": "^2.5.0"
   },
   "devDependencies": {
+    "@babel/core": "^7.18.13",
+    "@babel/eslint-parser": "^7.18.9",
     "autoprefixer": "^10.4.8",
-    "babel-eslint": "^10.1.0",
     "eslint": "8.22.0",
     "eslint-config-next": "12.2.5",
     "postcss": "^8.4.16",
