@@ -40,6 +40,9 @@
     fontweight: normal;
     fontstyle: normal;
   }
+   {
+    fontfamily: "BebasNeue";
+  }
 }
 
 @tailwind utilities;
